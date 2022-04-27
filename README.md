@@ -6,3 +6,6 @@ This is a temporary resource repository to host any resource that needs to be se
 <img  class="markers" src="https://raw.githubusercontent.com/ruch0401/resources/main/RedArrowDown.png" alt="red-arrow-down">
 ```
 
+<video width="600" controls>
+  <source src="https://www.youtube.com/watch?v=tBkqc7SCS0g" type="video/mp4">
+</video>
