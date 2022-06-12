@@ -5,4 +5,3 @@ This is a temporary resource repository to host any resource that needs to be se
 ```html
 <img  class="markers" src="https://raw.githubusercontent.com/ruch0401/resources/main/RedArrowDown.png" alt="red-arrow-down">
 ```
-
